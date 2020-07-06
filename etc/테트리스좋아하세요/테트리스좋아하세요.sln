@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "테트리스좋아하세요", "테트리스좋아하세요\테트리스좋아하세요.vcxproj", "{B0D101BC-BA2E-4446-843C-1CDCB1C1498D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D101BC-BA2E-4446-843C-1CDCB1C1498D}.Debug|x64.ActiveCfg = Debug|x64
+		{B0D101BC-BA2E-4446-843C-1CDCB1C1498D}.Debug|x64.Build.0 = Debug|x64
+		{B0D101BC-BA2E-4446-843C-1CDCB1C1498D}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0D101BC-BA2E-4446-843C-1CDCB1C1498D}.Debug|x86.Build.0 = Debug|Win32
+		{B0D101BC-BA2E-4446-843C-1CDCB1C1498D}.Release|x64.ActiveCfg = Release|x64
+		{B0D101BC-BA2E-4446-843C-1CDCB1C1498D}.Release|x64.Build.0 = Release|x64
+		{B0D101BC-BA2E-4446-843C-1CDCB1C1498D}.Release|x86.ActiveCfg = Release|Win32
+		{B0D101BC-BA2E-4446-843C-1CDCB1C1498D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19339BD0-3CAD-48E8-8438-D24414D20410}
+	EndGlobalSection
+EndGlobal
